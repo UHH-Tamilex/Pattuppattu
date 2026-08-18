@@ -27,7 +27,7 @@ jobs:
         run: |
           cd lib/_indexer
           yarn install
-          yarn pageindex '(?:Netunal|MPK1-10)' Pattuppāṭṭu
+          yarn pageindex '(?:Netunal|MPK1-10|MPK11-100|MPK101-185)' Pattuppāṭṭu
           yarn todb Netunal
           yarn dbtohtml "Pattuppāṭṭu"
           cd ../..
