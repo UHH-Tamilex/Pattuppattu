@@ -17,7 +17,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -86,7 +86,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#MK "><interp type="alignment" select="0">37MG75ML5ML29M2G23MG2ML88MG2ML4MG93MG6MG31MG84ML58MG64MG38MG111MG6MG70MG129MG30MG88MG3ML46MG3M,1150M</interp>
+<standOff type="wordsplit" corresp="#MK ">
+<interp type="alignment" select="0">37MG75ML5ML29M2G23MG2ML88MG2ML4MG93MG6MG31MG84ML58ML64MG38MG111MG6MG70MG129MG30MG88MG3ML46MG3M,1150M</interp>
 <entry>
 <form>ōṅku</form>
 <def>to rise</def>
@@ -242,7 +243,7 @@
 </entry>
 <entry>
 <form>nāḷ mīṉ</form>
-<def>day-star </def>
+<def>day-star</def>
 <form type="sandhi">ṉāṇmīṉ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -403,8 +404,6 @@
 <entry>
 <form>āyiram</form>
 <def>thousand</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>vittiyatu</form>
@@ -489,7 +488,7 @@
 </entry>
 <entry>
 <form>mē taka</form>
-<def>become eminent </def>
+<def>become eminent</def>
 <form type="sandhi">mētaka</form>
 <gramGrp>
   <gram type="role">infinitive</gram>
@@ -785,8 +784,6 @@
 <entry>
 <form>kōṭṭa</form>
 <def>tusked</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>kaḷiṟṟu<c type="geminated">k</c></form>
@@ -803,9 +800,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ṉiṇam</form>
+<form>niṇam</form>
 <def>fat</def>
-<form type="sandhi">iṇam</form>
+<form type="sandhi">ṉiṇam</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -906,7 +903,7 @@
 </entry>
 <entry>
 <form><c type="glide">v</c>añcu vanta</form>
-<def>causing fear </def>
+<def>causing fear</def>
 <form type="sandhi"><c type="glide">v</c>añcuvanta</form>
 <gramGrp>
   <gram type="role">infinitive</gram>
@@ -1183,8 +1180,6 @@
 <form>piṉ</form>
 <def>after</def>
 <form type="sandhi">piṟ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>peyarā<c type="geminated">p</c></form>
@@ -1373,7 +1368,7 @@
 </entry>
 <entry>
 <form>cūḻiya</form>
-<def>wearing face-ornament </def>
+<def>wearing face-ornament</def>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -1610,5 +1605,6 @@
   <gram type="role">infinitive</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
