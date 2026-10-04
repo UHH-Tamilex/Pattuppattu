@@ -167,7 +167,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#MK ">
-<interp type="alignment" select="0">37MG75ML5ML29M2G23MG2ML88MG2ML4MG93MG6MG31MG84ML58ML64MG38MG111MG6MG70MG129MG30MG88MG3ML46MG3M3G21MG16MG15ML26MG49M2G7MG45MG19ML32ML35MR14MG41MG19ML8ML12M2G137MG51MR90MG16ML27MR3MG7MG10MG56MG20MG127ML8ML62MG8ML56MG57MG38MG26M2G23MG2MR38MG21MG20MG23MG8ML54MG11MG104ML69MG59MG55ML45MG35MG14MG63M2GM,3010M</interp>
+<interp type="alignment" select="0">37MG75ML5ML29M2G23MG2ML88MG2ML4MG93MG6MG31MG84ML58ML64MG38MG111MG6MG70MG129MG30MG88MG3ML46MG24MG16MG15ML26MG49M2G7MG45MG19ML32ML35MR14MG41MG19ML8ML12M2G137MG51MR90MG16ML27MR3MG7MG10MG56MG20MG127ML8ML62MG8ML56MG57MG38MG26M2G23MG2MR38MG21MG20MG23MG8ML54MG11MG104ML69MG59MG55ML45MG35MG14MG63M2GM,3007M</interp>
 <entry>
 <form>ōṅku</form>
 <def>to rise</def>
@@ -1687,14 +1687,6 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>vām</form>
-<def>leaping</def>
-<form type="sandhi"/>
-<gramGrp>
-  <gram type="role">peyareccam</gram>
-</gramGrp>
-</entry>
-<entry>
 <form>pariya</form>
 <def>possessing horses</def>
 <gramGrp>
@@ -2879,17 +2871,10 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>ēṟṟat</form>
+<form><c type="glide">y</c>ēṟṟattōṭu</form>
 <def>a device for drawing water</def>
 <gramGrp>
   <gram type="role">sociative</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>tōṭu</form>
-<def>multitude</def>
-<gramGrp>
-  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
