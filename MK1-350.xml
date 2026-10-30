@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -704,7 +701,7 @@
 <entry>
 <form>āyiram</form>
 <def>thousand</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>vittiyatu</form>
 <def>that which is sown</def>
@@ -3340,7 +3337,7 @@
 <entry>
 <form>oru</form>
 <def>one</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>cār</form>
 <def>side</def>
@@ -3440,7 +3437,7 @@
 <entry>
 <form>iru</form>
 <def>two</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>peyar<c type="geminated">p</c></form>
 <def>names</def>
@@ -4141,7 +4138,7 @@
 <gramGrp>
   <gram type="role">adjective</gram>
   <gram type="role">noun</gram>
-</gramGrp>
+<gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>nilavaroṭu</form>
@@ -4717,7 +4714,7 @@
 <def>one</def>
 <gramGrp>
   <gram type="role">neuter singular</gram>
-</gramGrp>
+<gram type="role">noun</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>moḻi</form>
@@ -9259,7 +9256,7 @@
 <entry>
 <form><c type="glide">y</c>oru</form>
 <def>one</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>cār<c type="geminated">c</c></form>
 <def>side</def>
@@ -9822,7 +9819,7 @@
 <entry>
 <form>oru</form>
 <def>one</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>cār</form>
 <def>side</def>
@@ -10497,7 +10494,7 @@
 <entry>
 <form><c type="glide">y</c>oru</form>
 <def>one</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>cār</form>
 <def>side</def>
@@ -11001,7 +10998,7 @@
 <entry>
 <form>oru</form>
 <def>one</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>cār</form>
 <def>side</def>

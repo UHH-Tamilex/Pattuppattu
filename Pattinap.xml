@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,65 +27,65 @@
           <witness xml:id="Ed" source="Ed.xml">
             <abbr type="siglum">Ed</abbr>
             <expan>
-              <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Paṭṭiṉappālai</title>
+              <title xml:lang="ta">Paṭṭiṉappālai</title>
             </expan>
           </witness>
           <witness xml:id="C1" source="witnesses/UVSL_184.xml">
             <abbr type="siglum">C<hi rend="subscript">1</hi></abbr>
-            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Paṭṭiṉappālai</title>
+            <expan><title xml:lang="ta">Paṭṭiṉappālai</title>
               palmleaf manuscript</expan>
             <listWit>
               <witness xml:id="C1ac" n="ac">
                 <abbr type="siglum">C<hi rend="subscript">1</hi><hi rend="superscript">ac</hi></abbr>
-                <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Paṭṭiṉappālai</title>
+                <expan><title xml:lang="ta">Paṭṭiṉappālai</title>
                   palmleaf manuscript [ante correctionem]</expan>
               </witness>
               <witness xml:id="C1pc" n="pc">
                 <abbr type="siglum">C<hi rend="subscript">1</hi><hi rend="superscript">pc</hi></abbr>
-                <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Paṭṭiṉappālai</title>
+                <expan><title xml:lang="ta">Paṭṭiṉappālai</title>
                   palmleaf manuscript [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="Cam" source="witnesses/Cam1.xml">
             <abbr type="siglum">Cām</abbr>
-            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Pattuppāṭṭu</title>
+            <expan><title xml:lang="ta">Pattuppāṭṭu</title>
               first edition (1889)</expan>
             <listWit>
               <witness xml:id="Cam-v" select="#v">
                 <abbr type="siglum">Cām<hi rend="subscript">v</hi></abbr>
-                <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Pattuppāṭṭu</title>
+                <expan><title xml:lang="ta">Pattuppāṭṭu</title>
                   first edition (1889) [variant reading]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="NaccC" source="witnesses/Cam1.xml">
             <abbr type="siglum">Nacc<hi rend="subscript">C</hi></abbr>
-            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Pattuppāṭṭu Urai</title>
+            <expan><title xml:lang="ta">Pattuppāṭṭu Urai</title>
               first edition (1889)</expan>
             <listWit>
               <witness xml:id="NaccC-v" select="#v">
                 <abbr type="siglum">Nacc<hi rend="subscript">Cv</hi></abbr>
-                <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Pattuppāṭṭu</title>
+                <expan><title xml:lang="ta">Pattuppāṭṭu</title>
                   first edition (1889) [variant reading]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="Cam2" source="witnesses/Cam2.xml">
             <abbr type="siglum">Cām<hi rend="superscript">2</hi></abbr>
-            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Pattuppāṭṭu</title>
+            <expan><title xml:lang="ta">Pattuppāṭṭu</title>
               second edition (1918) by U. Vē. Cāminātaiyar</expan>
             <listWit>
               <witness xml:id="Cam2-v" select="#v">
                 <abbr type="siglum">Cām<hi rend="superscript">2</hi><hi rend="subscript">v</hi></abbr>
-                <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Pattuppāṭṭu</title>
+                <expan><title xml:lang="ta">Pattuppāṭṭu</title>
                   second edition (1918) by U. Vē. Cāminātaiyar [variant reading]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="Cām-Poru" source="witnesses/Cam-Poru.xml">
             <abbr type="siglum">Cām-Poru</abbr>
-            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Pattuppāṭṭu</title>
+            <expan><title xml:lang="ta">Pattuppāṭṭu</title>
               first edition (1889)</expan>
           </witness>
           <witness xml:id="C1-Poru" source="witnesses/C1-Poru.xml">
@@ -105,34 +102,34 @@
           </witness>
           <witness xml:id="G1" source="witnesses/GOML_D232.xml">
             <abbr type="siglum">G1</abbr>
-            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Paṭṭiṉappālai urai</title>
+            <expan><title xml:lang="ta">Paṭṭiṉappālai urai</title>
               paper manuscript</expan>
             <listWit>
               <witness xml:id="G1ac" n="ac">
                 <abbr type="siglum">G1ac</abbr>
-                <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Paṭṭiṉappālai urai</title>
+                <expan><title xml:lang="ta">Paṭṭiṉappālai urai</title>
                   paper manuscript [ante correctionem]</expan>
               </witness>
               <witness xml:id="G1pc" n="pc">
                 <abbr type="siglum">G1pc</abbr>
-                <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Paṭṭiṉappālai urai</title>
+                <expan><title xml:lang="ta">Paṭṭiṉappālai urai</title>
                   paper manuscript [post correctionem]</expan>
               </witness>
             </listWit>
           </witness>
           <witness xml:id="C2" source="witnesses/UVSL_579.xml">
             <abbr type="siglum">C2</abbr>
-            <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Paṭṭiṉappālai urai</title>
+            <expan><title xml:lang="ta">Paṭṭiṉappālai urai</title>
               palmleaf manuscript</expan>
             <listWit>
               <witness xml:id="C2ac" n="ac">
                 <abbr type="siglum">C2ac</abbr>
-                <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Paṭṭiṉappālai urai</title>
+                <expan><title xml:lang="ta">Paṭṭiṉappālai urai</title>
                   palmleaf manuscript [ante correctionem]</expan>
               </witness>
               <witness xml:id="C2pc" n="pc">
                 <abbr type="siglum">C2pc</abbr>
-                <expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Paṭṭiṉappālai urai</title>
+                <expan><title xml:lang="ta">Paṭṭiṉappālai urai</title>
                   palmleaf manuscript [post correctionem]</expan>
               </witness>
             </listWit>
@@ -463,7 +460,7 @@
 <def>three</def>
 <gramGrp>
   <gram type="role">adjective</gram>
-</gramGrp>
+<gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>cakkaram-um</form>
@@ -1406,7 +1403,7 @@
 <def>three</def>
 <gramGrp>
   <gram type="role">adjective</gram>
-</gramGrp>
+<gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>kāl</form>
@@ -1945,7 +1942,7 @@
 <def>two</def>
 <gramGrp>
   <gram type="role">adjective</gram>
-</gramGrp>
+<gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>kāmatt<c type="elided">u</c></form>
@@ -7428,7 +7425,7 @@
 <form type="sandhi">nāṉ</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
-</gramGrp>
+<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>maṟaiyōr</form>
